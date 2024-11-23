@@ -33,4 +33,36 @@ void OperatorExamples()
         area = width * height;
 
     } while (area > 25);
+
+    int someValue = 10;
+    string message = "";
+
+    if (someValue == 24 )
+    {
+        message = "Yes, it is 24";
+    }
+    else
+    {
+        message = "No";
+    }
+
+
+
+
+    /* 
+     * 
+     for (initializer; condition; iterator)
+        {
+        body
+        } 
+     */
+
+
+    int count = 5;
+    while (count > 0)
+    {
+        count = count * 3;
+        count = count * -1;
+    }
+
 }

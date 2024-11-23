@@ -1,0 +1,15 @@
+C:\Users\evan\OneDrive\Documents\GitHub\Head_First_C-Sharp_5ed\Chapter_2\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evan\OneDrive\Documents\GitHub\Head_First_C-Sharp_5ed\Chapter_2\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.AssemblyInfoInputs.cache
+C:\Users\evan\OneDrive\Documents\GitHub\Head_First_C-Sharp_5ed\Chapter_2\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.AssemblyInfo.cs
+C:\Users\evan\OneDrive\Documents\GitHub\Head_First_C-Sharp_5ed\Chapter_2\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\evan\OneDrive\Documents\GitHub\Head_First_C-Sharp_5ed\Chapter_2\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.sourcelink.json
+C:\Users\evan\OneDrive\Documents\GitHub\Head_First_C-Sharp_5ed\Chapter_2\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.exe
+C:\Users\evan\OneDrive\Documents\GitHub\Head_First_C-Sharp_5ed\Chapter_2\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.deps.json
+C:\Users\evan\OneDrive\Documents\GitHub\Head_First_C-Sharp_5ed\Chapter_2\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.runtimeconfig.json
+C:\Users\evan\OneDrive\Documents\GitHub\Head_First_C-Sharp_5ed\Chapter_2\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.dll
+C:\Users\evan\OneDrive\Documents\GitHub\Head_First_C-Sharp_5ed\Chapter_2\MyFirstConsoleApp\bin\Debug\net8.0\MyFirstConsoleApp.pdb
+C:\Users\evan\OneDrive\Documents\GitHub\Head_First_C-Sharp_5ed\Chapter_2\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.dll
+C:\Users\evan\OneDrive\Documents\GitHub\Head_First_C-Sharp_5ed\Chapter_2\MyFirstConsoleApp\obj\Debug\net8.0\refint\MyFirstConsoleApp.dll
+C:\Users\evan\OneDrive\Documents\GitHub\Head_First_C-Sharp_5ed\Chapter_2\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.pdb
+C:\Users\evan\OneDrive\Documents\GitHub\Head_First_C-Sharp_5ed\Chapter_2\MyFirstConsoleApp\obj\Debug\net8.0\MyFirstConsoleApp.genruntimeconfig.cache
+C:\Users\evan\OneDrive\Documents\GitHub\Head_First_C-Sharp_5ed\Chapter_2\MyFirstConsoleApp\obj\Debug\net8.0\ref\MyFirstConsoleApp.dll
