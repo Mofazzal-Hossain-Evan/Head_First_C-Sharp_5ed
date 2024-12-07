@@ -69,18 +69,64 @@
 
 using System;
 
+//class Program
+//{
+//    static void Main()
+//    {
+//        int p = 2;
+
+//        for (int q = 2; q < 32; q = q * 2)
+//        {
+//            while (p < q)
+//            {
+//                p = p * q; // Ensure this is really your intended logic
+//            }
+//            q = p - q;
+//        }
+//    }
+//}
+
+//class Program
+//{
+//    static void Main()
+//    {
+
+//        int i = 0;
+//        int count = 2;
+//        while(i ==0)
+//        {
+//            count = count * 3;
+//            count = count * 2;
+//        }
+//    }
+//}
+
+
+
+using System;
+
 class Program
 {
     static void Main()
     {
-        int p = 2;
+        TrySomeLoops(); // Call the TrySomeLoops method
+    }
 
-        for (int q = 2; q < 32; q = q * 2)
+    // Move TrySomeLoops outside of Main
+    static void TrySomeLoops()
+    {
+        int count = 0;
+
+        while (count < 10)
         {
-            while (p < q)
-            {
-                q = p - q; // Ensure this is really your intended logic
-            }
+            count = count + 1; // Increment count
         }
+
+        for (int i = 0; i < 5; i++)
+        {
+            count = count - 1; // Decrement count
+        }
+
+        Console.WriteLine("The answer is " + count);
     }
 }

@@ -1,0 +1,13 @@
+# Ignore Visual Studio temporary files and directories
+.vs/
+*.user
+*.suo
+*.vsidx
+*.vssscc
+*.tmp
+*.cache
+*.log
+
+# Ignore JetBrains Rider/IDEA workspace files
+.idea/
+workspace.xml
