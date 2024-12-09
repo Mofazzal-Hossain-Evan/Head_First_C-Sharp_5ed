@@ -30,7 +30,7 @@
     <AppXManifest Include="C:\Users\evan\OneDrive\Documents\GitHub\Head_First_C-Sharp_5ed\Chapter_2\ExperimentWithControls\ExperimentWithControls\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-12-09T13:34:07.481</Modified>
+      <Modified>2024-12-09T14:08:33.553</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\evan\OneDrive\Documents\GitHub\Head_First_C-Sharp_5ed\Chapter_2\ExperimentWithControls\ExperimentWithControls\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ExperimentWithControls.dll">
       <PackagePath>ExperimentWithControls.dll</PackagePath>
-      <Modified>2024-12-09T13:34:06.563</Modified>
+      <Modified>2024-12-09T14:08:32.635</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\evan\OneDrive\Documents\GitHub\Head_First_C-Sharp_5ed\Chapter_2\ExperimentWithControls\ExperimentWithControls\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>ExperimentWithControls.exe</PackagePath>
-      <Modified>2024-12-09T13:34:06.609</Modified>
+      <Modified>2024-12-09T14:08:32.680</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\evan\OneDrive\Documents\GitHub\Head_First_C-Sharp_5ed\Chapter_2\ExperimentWithControls\ExperimentWithControls\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
