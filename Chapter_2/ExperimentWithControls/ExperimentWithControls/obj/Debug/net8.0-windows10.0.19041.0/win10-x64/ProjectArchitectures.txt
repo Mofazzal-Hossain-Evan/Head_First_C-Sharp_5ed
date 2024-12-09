@@ -1,0 +1,1 @@
+C:\Users\evan\OneDrive\Documents\GitHub\Head_First_C-Sharp_5ed\Chapter_2\ExperimentWithControls\ExperimentWithControls\ExperimentWithControls.csproj;x64
